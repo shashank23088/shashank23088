@@ -15,6 +15,9 @@ I've been implementing various projects in different fields of AI: Machine Learn
 <a href="https://www.github.com/shashank23088" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/shashank23088?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+<a href="https://github.com/shashank23088" target="_blank" rel="noreferrer">
+<img src="https://komarev.com/ghpvc/?username=shashank23088&label=Profile%20Views&color=0891b2&style=for-the-badge" /></a>
+
 ### Skills
 
 
@@ -41,8 +44,6 @@ src="https://img.shields.io/github/followers/shashank23088?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shashank23088/adl_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=adl_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shashank23088/ir_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=ir_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/shashank23088/adl_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=adl_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shashank23088/ir_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=ir_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
 <div width="100%" align="center"><a href="https://github.com/shashank23088/dsa" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=dsa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
