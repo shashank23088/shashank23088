@@ -1,7 +1,7 @@
 Hi 👋 My name is Shashank G. Sharma
 ===================================
 
-MTech'25 @ IIITD | AI Engineer
+CSE(AI), MTech'25 @ IIITD | AI Engineer
 ------------------------------
 
 I've been implementing various projects in different fields of AI: Machine Learning, Deep Learning, Reinforcement Learning, LLMs: throughout my BTech and MTech journey, and now I'm set to join TCS Research as a Research and Innovation Engineer. I'm very nervous and curious at the same time, about what the future holds for me. Wish me Luck!
