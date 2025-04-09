@@ -8,7 +8,7 @@ I've been implementing various projects in different fields of AI: Machine Learn
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [shashank.0901sharma@gmail.com](mailto:shashank.0901sharma@gmail.com)
-* 🧠  I'm learning NLP-based models and techniques to implement various applications that use text as a modality.
+* 🧠  Currently I'm learning NLP-based models and techniques to implement various applications that use text as a modality.
 * 🤝  I'm open to collaborating on GenAI projects that leverage state of the art technologies to develop creative applications.
 * ⚡  I'm Secretly Shaktiman, but don't tell anyone! And, I also play decent chess, checkout my <a href="https://www.chess.com/member/shashankgsharma" target="_blank">Chesscom Profile</a>.
 
@@ -44,6 +44,20 @@ src="https://img.shields.io/github/followers/shashank23088?logo=github&style=for
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/shashank23088/adl_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=adl_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shashank23088/ir_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=ir_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/shashank23088/nlp_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=nlp_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+  <a href="https://github.com/Shubham23094/LLM_Baseline_GroupNo6" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Shubham23094&repo=LLM_Baseline_GroupNo6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
 
-<div width="100%" align="center"><a href="https://github.com/shashank23088/dsa" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=dsa&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center">
+  <a href="https://github.com/Junaidfayazlone/RL-Project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Junaidfayazlone&repo=RL-Project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+  <a href="https://github.com/abhilashk23/vehant-scs-par" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=abhilashk23&repo=vehant-scs-par&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
+
+<div width="100%" align="center">
+  <a href="https://github.com/shashank23088/adl_project" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=adl_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+  
+  <a href="https://github.com/shashank23088/ir_project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shashank23088&repo=ir_project&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+</div>
